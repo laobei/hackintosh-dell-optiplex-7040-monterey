@@ -19,7 +19,6 @@
 **Opencore boot mode version 0.7.8**
 
 _include :_
-
 - kext mapping usb added
 - boot chime added
 - launcher full added
