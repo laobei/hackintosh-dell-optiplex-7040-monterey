@@ -1,4 +1,4 @@
-# EFI-hackintosh-dell-optiplex-7040
+# EFI-hackintosh-dell-optiplex-7040-SFF
  _**Spec :**_
 
 - Intel Core i5-6600 Processor (Quad Core, 6MB, 4T, 3.3GHz, 65W)
@@ -13,7 +13,6 @@
 - 1 P2/Serial
 - 2 Display Port 1.2
 - 1 HDMI
-- 1 UAJ
 - 1 Line-out
 # **Opencore boot mode version 0.7.8**
 # include :
@@ -25,3 +24,4 @@
 - wireless kext for wifi card usb
 - fixing sleep mode
 - no verbose in boot
+Ojo lali ndungo
