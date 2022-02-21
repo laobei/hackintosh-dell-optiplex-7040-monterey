@@ -17,6 +17,7 @@
 - 1 Internal speaker
 
 **Opencore boot mode version 0.7.8**
+
 _include :_
 
 - kext mapping usb added
@@ -27,4 +28,6 @@ _include :_
 - wireless kext for wifi card usb
 - fixing sleep mode
 - no verbose in boot
+
+_Note :_
 - **Ojo lali ndungo**
