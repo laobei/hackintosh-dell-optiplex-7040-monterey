@@ -24,4 +24,4 @@
 - wireless kext for wifi card usb
 - fixing sleep mode
 - no verbose in boot
-Ojo lali ndungo
+- **Ojo lali ndungo**
