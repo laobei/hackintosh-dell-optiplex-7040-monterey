@@ -1,9 +1,9 @@
 # EFI-hackintosh-dell-optiplex-7040-SFF
- _**Spec :**_
+ _**Specs my pc :**_
 
 - Intel Core i5-6600 Processor (Quad Core, 6MB, 4T, 3.3GHz, 65W)
-- 8GB (2x4G) 2133MHz DDR4 Memory
-- NVME SSD Adata 128gb for mac OS
+- SK Hynix 8GB 2133MHz DDR4 Memory
+- Adata NVME SSD 128gb for mac OS
 - Kingspec 256gb for windows 11
 - Toshiba HDD for Data
 - 6 USB 3.0 (2 front/4 rear-1 with PowerShare)
@@ -14,8 +14,11 @@
 - 2 Display Port 1.2
 - 1 HDMI
 - 1 Line-out
-# **Opencore boot mode version 0.7.8**
-# include :
+- 1 Internal speaker
+
+**Opencore boot mode version 0.7.8**
+_include :_
+
 - kext mapping usb added
 - boot chime added
 - launcher full added
